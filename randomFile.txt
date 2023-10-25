@@ -1,3 +1,4 @@
 This is a new file.
 File has a new line.
 Added a new line in randomFile.
+This line won't be commited before push.
